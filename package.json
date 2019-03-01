@@ -1,0 +1,14 @@
+{
+  "name": "botanother",
+  "version": "1.0.0",
+  "description": "Izumi Akasawa est un Bot repris de la série Another, le bot a été créé par FilEeaZaiR#1258 et Mei Misxki#8968",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FilEeaZaiR",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
